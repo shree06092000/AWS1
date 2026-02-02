@@ -1,4 +1,4 @@
-# AWS1
+# AWS-Project-1
 Deploying A Multi-Tier Website Using AWS EC2
 
 ☁️ High Availability Web Application on AWS (EC2 + RDS + Auto Scaling)
